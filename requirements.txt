@@ -1,0 +1,6 @@
+faster-whisper==1.2.1
+ctranslate2==4.8.3
+# O av 19 quebra o faster-whisper 1.2.1 ("unexpected keyword argument 'metadata_errors'"): fica no 14.2.
+av==14.2.0
+numpy==2.5.4
+sounddevice==0.5.6
